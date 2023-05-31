@@ -12,3 +12,5 @@ In this project I have analyzed the World Bank dataset by writing SQL queries to
 * Which country owns the maximum amount of debt and what does that amount look like?
 
 * What is the average amount of debt owed by countries across different debt indicators?
+
+This project draws on data from the World Bank (https://www.worldbank.org/en/home), Which contains data on both national and regional debt statistics for several countries around the world.
